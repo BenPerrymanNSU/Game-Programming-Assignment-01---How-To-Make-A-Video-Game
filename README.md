@@ -7,7 +7,7 @@ First assignment for the NSU Spring 2023 Game Programming Course
 
 ## New Features:
 * Added Options and Instructions buttons to Menu
--
+
 * Options button leads to Options Mneu scene
 * Options Menu contains an input field to set a player name for Credits scene
 * Options Menu contains a speed slider for adjusting player movement speed in Level scenes
@@ -15,11 +15,11 @@ First assignment for the NSU Spring 2023 Game Programming Course
 * Options Menu contains a toggle to let the user select between decimal point or whole numbers when using speed slider
 * Options Menu saves input field, toggle, and slider information between scenes
 * Options Menu contains Main Menu button to return to Menu scene
--
+
 * Instructions button leads to Instruction Menu scene
 * Instructions Menu contains text description of game's goal and controls
 * Instructions Menu contains Main Menu button to return to Menu scene
--
+
 * Added second level scene (Level02)
 * Credits scene now includes special thanks message
 * Credits scene will display what was inputed into the input field from the Options Menu scene or "You, the player!" if left blank in the Options Menu scene

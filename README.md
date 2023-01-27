@@ -1,10 +1,11 @@
-# Game-Programming-Assignment-01---How-To-Make-A-Video-Game #
+# Game-Programming-Assignment-01---How-To-Make-A-Video-Game
 First assignment for the NSU Spring 2023 Game Programming Course
+
 ====================================================================
 
-## Changes made to this assignment from the original "How To Make A Video Game" YouTube Tutorial: ##
+## Changes made to this assignment from the original "How To Make A Video Game" YouTube Tutorial:
 
-## New Features: ##
+## New Features:
 * Added Options and Instructions buttons to Menu
 -
 * Options button leads to Options Mneu scene

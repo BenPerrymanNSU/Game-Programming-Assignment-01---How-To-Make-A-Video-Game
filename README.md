@@ -1,7 +1,7 @@
 # Game-Programming-Assignment-01---How-To-Make-A-Video-Game
 First assignment for the NSU Spring 2023 Game Programming Course
 
-====================================================================
+============================================================================================================
 
 ## Changes made to this assignment from the original "How To Make A Video Game" YouTube Tutorial:
 
@@ -24,4 +24,4 @@ First assignment for the NSU Spring 2023 Game Programming Course
 * Credits scene now includes special thanks message
 * Credits scene will display what was inputed into the input field from the Options Menu scene or "You, the player!" if left blank in the Options Menu scene
 
-====================================================================
+============================================================================================================
